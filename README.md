@@ -21,7 +21,7 @@ Bu projede, hızlı bir geliştirme deneyimi için **Vite** kullanılmıştır. 
 Öncelikle, projeyi klonlayın:
 
 ```bash
-git clone https://github.com/hatesalp/HierarchySearchProject.git
+git clone https://github.com/hatesalp/department-search-project.git
 cd search-project
 ```
 
