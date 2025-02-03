@@ -1,4 +1,4 @@
-# HierarchySearchProject(Departman Arama Uygulaması)
+# Departman Arama Uygulaması
 
 Bu uygulama, bir dizi departman verisi üzerinde arama yapmayı ve bu verileri bir hiyerarşik yapıda görüntülemeyi sağlar. Kullanıcılar, arama terimi girerek departmanları veya açıklamalarını hızlıca bulabilirler. Uygulama, aynı zamanda arama sonuçlarına uygun şekilde veri vurgulama, açılır-kapanır (accordion) yapısı ve hata mesajları gibi işlevsellikler sunar.
 
